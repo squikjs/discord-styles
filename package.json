@@ -1,0 +1,25 @@
+{
+  "name": "discord-styles",
+  "version": "1.0.01",
+  "description": "Simplified text styling for discord.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squikjs/discord-styles.git"
+  },
+  "keywords": [
+    "discord",
+    "styles",
+    "chalk",
+    "discord.js",
+    "discord-styles",
+    "ansi",
+    "discord-markdown"
+  ],
+  "author": "squik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squikjs/discord-styles/issues"
+  },
+  "homepage": "https://github.com/squikjs/discord-styles#readme"
+}
